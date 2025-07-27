@@ -1,0 +1,17 @@
+export const ImageThreede = "/images/3d.webp";
+export const hot = "/images/hot.png";
+export const kitchens = "/images/kitchen.png";
+export const ImageBookshelf = "/images/bookshelf.webp";
+export const Luxor = "/images/luxor.png";
+export const Brick = "/images/brick.png";
+export const SOS = "/images/SOS.png";
+export const Food = "/images/Food.png";
+export const ImageInpoUms = "/images/inpo-ums.webp";
+export const ImageMulih = "/images/mulih.webp";
+export const jadwal = "/images/jadwal.png";
+export const Stargius = "/images/stargius.png";
+export const learns = "/images/learn.png";
+export const ImageRose = "/images/rose.webp";
+export const ImageSecret = "/images/secret.webp";
+export const ImageTravel = "/images/travel.webp";
+export const ImageUlin = "/images/me.jpg";
